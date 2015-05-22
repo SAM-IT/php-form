@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "bower-asset/samit-forms": "^1.0"
+        "bower-asset/samit-forms": "1.*"
     },
     "autoload": {
         "psr-4" : {

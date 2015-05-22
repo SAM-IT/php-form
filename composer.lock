@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "37d59c7bebdf4d4df489db911d897e8f",
+    "packages": [
+        {
+            "name": "bower-asset/samit-forms",
+            "version": "v1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/SAM-IT/st-forms.git",
+                "reference": "d25711caa3d70ae3c07eba714ec5aa0356a86351"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/SAM-IT/st-forms/zipball/d25711caa3d70ae3c07eba714ec5aa0356a86351",
+                "reference": "d25711caa3d70ae3c07eba714ec5aa0356a86351",
+                "shasum": ""
+            },
+            "type": "bower-asset-library",
+            "extra": {
+                "bower-asset-main": "samit-forms.js",
+                "bower-asset-ignore": [
+                    "**/.*",
+                    "node_modules",
+                    "bower_components",
+                    "test",
+                    "tests"
+                ]
+            },
+            "license": [
+                "MIT"
+            ],
+            "description": "Form validation using html attributes only.",
+            "keywords": [
+                "form",
+                "html5",
+                "validation"
+            ]
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
