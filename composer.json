@@ -1,0 +1,21 @@
+{
+    "name": "sam-it/forms",
+    "description": "Form validation library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sam",
+            "email": "sam@mousa.nl"
+        }
+    ],
+    "require": {
+        "bower-asset/samit-forms": "^1.0"
+    }
+    "autoload": {
+        "psr-4" : {
+            "SamIT\\Form\\" : [
+                "src/"
+            ]
+        }
+    }
+}
